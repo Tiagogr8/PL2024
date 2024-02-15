@@ -10,6 +10,6 @@
 
 ## Aluno
 
-**Nome:** Tiago Rodrigues
+**Nome:** Tiago Granja Rodrigues
 
 **ID:** a100827

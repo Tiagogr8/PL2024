@@ -30,7 +30,7 @@ for line in sys.stdin.readlines():
 
 print("Modalidades:")
 for modalidade in sorted(list(modalidades)):
-    print(modalidade.encode('utf-8').decode(sys.stdout.encoding))
+    print(modalidade)
 
 inaptos = n_atletas - aptos
 p_aptos = (aptos/n_atletas) * 100
